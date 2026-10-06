@@ -1,0 +1,14 @@
+{
+  "name": "aniki-burger-candidates",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch": "node fetch_candidates.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1"
+  }
+}
